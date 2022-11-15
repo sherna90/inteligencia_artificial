@@ -1,3 +1,5 @@
 *.gz
 *.npz
 data/*
+*.npy
+HAR.tar.xz
